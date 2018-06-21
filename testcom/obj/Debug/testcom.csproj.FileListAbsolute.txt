@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\testcom\testcom\bin\Debug\testcom.exe.config
+c:\users\user\documents\visual studio 2015\Projects\testcom\testcom\bin\Debug\testcom.exe
+c:\users\user\documents\visual studio 2015\Projects\testcom\testcom\bin\Debug\testcom.pdb
+c:\users\user\documents\visual studio 2015\Projects\testcom\testcom\obj\Debug\testcom.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\testcom\testcom\obj\Debug\testcom.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\testcom\testcom\obj\Debug\testcom.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\testcom\testcom\obj\Debug\testcom.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\testcom\testcom\obj\Debug\testcom.exe
+c:\users\user\documents\visual studio 2015\Projects\testcom\testcom\obj\Debug\testcom.pdb
+c:\users\user\documents\visual studio 2015\Projects\testcom\testcom\bin\Debug\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2015\Projects\testcom\testcom\bin\Debug\Newtonsoft.Json.xml
